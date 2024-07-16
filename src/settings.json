@@ -1,0 +1,74 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "HeroSplitWithImage"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Effortlessly Connect and Interact, Wherever You Are",
+        "title": "Seamless Teleportation at Your Fingertips"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Seamless Teleportation at Your Fingertips",
+  "subtitle": "Effortlessly Connect and Interact, Wherever You Are"
+}
